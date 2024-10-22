@@ -22,6 +22,7 @@ I'm a Cloud & Backend Developer and a fresh graduate from Institut Teknologi Del
   
 ## 🚀 Technologies & Tools
 Throughout my professional and academic journey, I have worked extensively with a wide range of technologies, including:
+
 ![Google Cloud Platform](https://skillicons.dev/icons?i=gcp)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![PHP](https://skillicons.dev/icons?i=php)
