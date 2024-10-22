@@ -16,14 +16,6 @@ Have an experience developing applications using:
 
 ![Technologies Icon](./path-to-icon-set/A_clean,_modern_icon_set_representing_various_tech.png)
 
-## 🏆 Certifications
-
-- **Google Cloud Engineer** – Dicoding
-- **DevOps Basics** – Dicoding
-- **Cloud Practitioner Essentials (AWS)** – Dicoding
-- **Laravel Beginner to Advanced** – Udemy
-- **Cloud Computing Learning Path** – Bangkit Academy (Google, Tokopedia, Gojek, Traveloka)
-
 ## 🎓 Education
 
 - **Bachelor of Informatics** – Del Institute of Technology (GPA: 3.49/4.00)
@@ -37,6 +29,11 @@ Have an experience developing applications using:
 
 - [LinkedIn](https://www.linkedin.com/in/rolasta/)
 - [Email](mailto:sitorus.rolasta123@gmail.com)
+
+![Java](https://skillicons.dev/icons?i=java)
+![PHP](https://skillicons.dev/icons?i=php)
+![Docker](https://skillicons.dev/icons?i=docker)
+![Laravel](https://skillicons.dev/icons?i=laravel)
 
 ---
 
