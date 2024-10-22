@@ -1,6 +1,6 @@
 # Hi there, I'm Rolasta J.A Sitorus! 👋
 
-I'm a **Cloud & Backend Developer** passionate about building robust and efficient systems. I enjoy creating solutions that make a real impact, particularly in web development, cloud computing, and machine learning. Here's a bit about me and the technologies I love working with.
+I'm a Cloud & Backend Developer and a fresh graduate from Institut Teknologi Del. I am passionate about building robust and efficient systems. I enjoy creating solutions that make a real impact, particularly in web development, cloud computing, and Backend Development. I am eager to apply the skills I’ve gained through my academic and project experiences to real-world challenges, leveraging modern technologies to deliver high-quality solutions
 
 ## 💼 Work Experience & Projects
 
@@ -17,10 +17,11 @@ I'm a **Cloud & Backend Developer** passionate about building robust and efficie
 
 ## 🌱 Currently Learning
 
-- Preparing for interviews and expanding my knowledge in **middleware technologies** and **Node.js**.
+- Deepening my knowledge in backend development with Node.js and MongoDB, and enthusiastically exploring and expanding my understanding of middleware technologies."
 
   
-## 🚀 Throughout my professional and academic journey, I have worked extensively with a wide range of technologies, including:
+## 🚀 Technologies & Tools
+Throughout my professional and academic journey, I have worked extensively with a wide range of technologies, including:
 ![Google Cloud Platform](https://skillicons.dev/icons?i=gcp)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
 ![PHP](https://skillicons.dev/icons?i=php)
